@@ -1,0 +1,28 @@
+READ ME:
+¯¯¯¯¯¯¯
+
+INSTRUCTION HOW TO COMPILE AND RUN THE PROGRAM:
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+1. It is preffered to use any latest Linux distro (ubuntu 14.04 lts is preffered by me)
+2. Copy the code to the /home folder
+3. Open terminal (ctrl + alt + t)
+4. Check whether you have gcc preinstalled or not ( gcc 4.8.1 is preffered)(if gcc is't installed see gcc installation)
+5. In the terminal write "gcc codename.c"
+6. After successfully compilation write "./a.out"
+7. The user is supposed to enter no of variables and no of minterms.
+8. The program will generate min terms for you.
+9. The program will show all the steps it follows.
+   Including a pi table.
+   And will give you a final solution.
+
+
+HOW TO INSTALL GCC:
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+1. First type in the console "gcc"
+2. Where is no GCC installed, to install it type: "sudo apt-get install gcc g++"
+3. Accept the installation
+4. Type in the console "gcc --version" and "g++ --version"
+
+Done!
